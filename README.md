@@ -11,8 +11,18 @@ DURATION:12 WEEKS
 
 HR Manager: Drishti Madaan
 
-I recently created a weather app for my 1st internship project at codtech. my goal was to design a response weather app that provides users with real-time weather information. this app allows users to access accurate weather data for any location in the city.
+I recently developed my Personal Portfolio Website to showcase my skills, projects, and professional journey. My goal was to design a responsive and visually appealing portfolio that highlights my work and helps recruiters, clients, and organizations learn more about me easily.
 
-Highlights Modern Design: The app features a sleek and modern design, with a clean user interface and dynamic weather icons that reflect different weather conditions. Real-Time Weather Data: The app pulls live weather data from an external API, providing users with up-to-date information on temperature, humidity, wind speed, and weather conditions. Responsive Layout: The app is fully responsive, ensuring a smooth user experience across various devices, from desktops to smartphones. Javascript: JavaScript is used to implement interactive features like location search, dynamic weather updates, and unit switching for temperature and wind speed.
+Highlights
 
-language used HTML ,CSS ,JAVASCRIPT
+Modern Design:
+The portfolio features a clean, modern, and professional user interface with well-structured sections, smooth navigation, and visually engaging layouts that enhance user experience.
+
+Professional Showcase:
+The website displays my projects, skills, education, achievements, and contact details in an organized way, allowing visitors to clearly understand my technical expertise and background.
+
+JavaScript Functionality:
+JavaScript is used to add interactive features such as smooth scrolling, animations, and dynamic content updates to make the portfolio more engaging and user-friendly.
+
+Languages Used:
+HTML, CSS, JavaScript
